@@ -1,5 +1,5 @@
 # InsuranceCostsPrediction - iOS App 
-This is an example app built on top of SwiftUI. 
+This is an example app built on top of #SwiftUI and #CoreML. 
 The app allows the user to estimated amount of $ to pay for the insurance costs based on some feature, such as: 
 - sex (either male or female)
 - age 
@@ -7,10 +7,11 @@ The app allows the user to estimated amount of $ to pay for the insurance costs 
 - smoke: yes or no
 - bmi (body mass index)
 
-At the core of the predictions runs a simple model built with CreateML and trained on the data repository available at the following link: 
-https://www.kaggle.com/datasets/mirichoi0218/insurance. 
-The main idea of this simple app is to show how bring a ML model into an app with CoreML and makes predictions on the device. 
-Also, SwithUI for the UI is used to try some cool stuff :) !
+At the core of the predictions runs a simple model built with CreateML which has been trained on the data repository available at the following link: 
+https://www.kaggle.com/datasets/mirichoi0218/insurance.
+By the end, the model reached very good performances (root mean square error of about 0.0097), this is pretty good considering that the model weights approximately 3 MB.
+The main idea of this simple app is to show how bring a **ML model** into an app with CoreML and make predictions on the device. 
+Also, **SwithUI** for the UI is used to try some cool stuff :) !
 
 
 <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0072.PNG" width="200" height="350"> <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0073.PNG" width="200" height="350">  <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0074.PNG" width="200" height="350"> 
@@ -45,7 +46,18 @@ Also, SwithUI for the UI is used to try some cool stuff :) !
      
 </p> 
 
+# Technology
 
+- Machine Learning
+- Create ML, Core ML
+- SwiftUI
+- iOS App Development 
+
+# Notes
+This app, especcially in the UI, can be widley improved because of the main purpose was to integrate a ML into a working app. 
+For the future, for sure, some adjustement of the UI can be conducted and also an app Icon can be designed. 
+I think that the idea of trying to predict cost insurance is something of interesting, someone might fint it usefull (who knows !). 
+The model's prediciton power can be enriched by working with a different and bigger dataset.
 # Usage
 Feel free to use the app and take insipiration from this project (but please cite me somehow :) ). For any suggestion or curiosity or technical stuff feel free to reach me by: 
 
