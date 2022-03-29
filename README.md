@@ -13,6 +13,9 @@ The main idea of this simple app is to show how bring a ML model into an app wit
 Also, SwithUI for the UI is used to try some cool stuff :) !
 
 
+<img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0072.PNG" width="200" height="300"> <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0073.PNG" width="200" height="300">  <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0074.PNG" width="200" height="300"> 
+
+
 <p align="center">
 
 <a href="#" alt="Swift Version">
