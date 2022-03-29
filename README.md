@@ -16,7 +16,7 @@ Also, SwithUI for the UI is used to try some cool stuff :) !
 <p align="center">
 
 <a href="#" alt="Swift Version">
-        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=AVFoundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=ML&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
 
 <a href="#" alt="Swift Version">
         <img src="https://img.shields.io/static/v1?label=BDesigned for %20Version&message=IPhone&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
