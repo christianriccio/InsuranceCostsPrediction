@@ -29,9 +29,6 @@ Also, SwithUI for the UI is used to try some cool stuff :) !
         
 <a href="#" alt="Swift Version">
         <img src="https://img.shields.io/static/v1?label=Xcode%20Version&message=13.0+&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
-
-<a href="#" alt="Swift Version">
-        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=AVFoundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
         
 <a href="#" alt="Swift Version">
         <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=CreateML&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
@@ -41,15 +38,8 @@ Also, SwithUI for the UI is used to try some cool stuff :) !
         
 <a href="#" alt="Swift Version">
         <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=SwiftUI&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
-
-
-<a href="#" alt="Swift Version">
-        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=Foundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
-
-
-<a href="#" alt="Swift Version">
-        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=AVFoundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
         
+     
 </p> 
 
 
