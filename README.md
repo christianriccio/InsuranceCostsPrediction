@@ -13,6 +13,46 @@ The main idea of this simple app is to show how bring a ML model into an app wit
 Also, SwithUI for the UI is used to try some cool stuff :) !
 
 
+<p align="center">
+
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=AVFoundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=BDesigned for %20Version&message=IPhone&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+        
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Built for %20Version&message=iOS15&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=5.5&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+        
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Xcode%20Version&message=13.0+&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=AVFoundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+        
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=CreateML&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=CoreML&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+        
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=SwiftUI&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+
+
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=Foundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+
+
+<a href="#" alt="Swift Version">
+        <img src="https://img.shields.io/static/v1?label=Framework%20Version&message=AVFoundation&color=brightgreen&logo=swift" alt="Swift Version 5.5"></a>
+        
+</p> 
+
+
 # Usage
 Feel free to use the app and take insipiration from this project (but please cite me somehow :) ). For any suggestion or curiosity or technical stuff feel free to reach me by: 
 
