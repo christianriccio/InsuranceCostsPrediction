@@ -5,7 +5,8 @@ The app allows the user to estimated amount of $ to pay for the insurance costs 
 - age 
 - child: number of child 
 - smoke: yes or no
-- bmi (body mass index)
+- bmi (body mass index): to calculate it you only need to provide weight (in Kg) and height (in cm). The the body mass index is calculated.
+
 
 At the core of the predictions runs a simple model built with CreateML which has been trained on the data repository available at the following link: 
 https://www.kaggle.com/datasets/mirichoi0218/insurance.
@@ -14,7 +15,7 @@ The main idea of this simple app is to show how bring a **ML model** into an app
 Also, **SwithUI** for the UI is used to try some cool stuff :) !
 
 
-<img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0072.PNG" width="200" height="350"> <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0073.PNG" width="200" height="350">  <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0074.PNG" width="200" height="350"> 
+<img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0076.PNG" width="200" height="350"> <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0077.PNG" width="200" height="350">  <img src="https://github.com/christianriccio/InsuranceCostsPrediction/blob/main/IMG_0078.PNG" width="200" height="350"> 
 
 
 <p align="center">
