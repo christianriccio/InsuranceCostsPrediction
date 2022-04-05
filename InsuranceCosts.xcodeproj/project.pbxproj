@@ -12,6 +12,7 @@
 		1A2EA6E527F250FB002664DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A2EA6E427F250FB002664DD /* Assets.xcassets */; };
 		1A2EA6E827F250FB002664DD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A2EA6E727F250FB002664DD /* Preview Assets.xcassets */; };
 		1A2EA6F127F27DAD002664DD /* MedicalCosts.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 1A2EA6F027F27DAC002664DD /* MedicalCosts.mlmodel */; };
+		1AC755AF27FC2AB10017E3DC /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC755AE27FC2AB10017E3DC /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		1A2EA6E427F250FB002664DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A2EA6E727F250FB002664DD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1A2EA6F027F27DAC002664DD /* MedicalCosts.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MedicalCosts.mlmodel; sourceTree = SOURCE_ROOT; };
+		1AC755AE27FC2AB10017E3DC /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				1A2EA6F027F27DAC002664DD /* MedicalCosts.mlmodel */,
 				1A2EA6E027F250F9002664DD /* InsuranceCostsApp.swift */,
 				1A2EA6E227F250F9002664DD /* ContentView.swift */,
+				1AC755AE27FC2AB10017E3DC /* SplashScreenView.swift */,
 				1A2EA6E427F250FB002664DD /* Assets.xcassets */,
 				1A2EA6E627F250FB002664DD /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				1A2EA6F127F27DAD002664DD /* MedicalCosts.mlmodel in Sources */,
 				1A2EA6E327F250F9002664DD /* ContentView.swift in Sources */,
 				1A2EA6E127F250F9002664DD /* InsuranceCostsApp.swift in Sources */,
+				1AC755AF27FC2AB10017E3DC /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +272,7 @@
 		1A2EA6EC27F250FB002664DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -279,6 +283,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -297,7 +302,7 @@
 		1A2EA6ED27F250FB002664DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -308,6 +313,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
